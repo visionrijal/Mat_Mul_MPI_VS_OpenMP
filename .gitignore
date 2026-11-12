@@ -1,0 +1,7 @@
+# build outputs
+mpi_matmul
+omp_matmul
+*.o
+
+# course handout (not ours to publish)
+718-Assignment-3.pdf
